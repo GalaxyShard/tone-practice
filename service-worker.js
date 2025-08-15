@@ -23,9 +23,9 @@ const urlsToCache = [
   'assets/jquery.hotkeys.js',
   'assets/intervals.js',
   'assets/perfect_pitch.js',
-  'absolute-perfect-pitch-test.html',
+  'absolute-perfect-pitch-test',
   'index.html',
-  'intervals.html',
+  'intervals',
   'service-worker.js',
   'manifest.json',
 ];
